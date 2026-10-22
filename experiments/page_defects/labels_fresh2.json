@@ -1,0 +1,164 @@
+{
+ "experiments/page_defects/out/arcania_p3_base_s6.png": {
+  "run": "arcania",
+  "page": 3
+ },
+ "experiments/page_defects/out/arcania_p3_base_s7.png": {
+  "run": "arcania",
+  "page": 3
+ },
+ "experiments/page_defects/out/arcania_p3_base_s8.png": {
+  "run": "arcania",
+  "page": 3
+ },
+ "experiments/page_defects/out/arcania_p3_base_s5.png": {
+  "run": "arcania",
+  "page": 3,
+  "note": "prince wore the mage's purple robe (outfit swap, caught by the spec critic, not a tracked defect type)"
+ },
+ "experiments/page_defects/out/mira_p1_base_s5.png": {
+  "run": "mira",
+  "page": 1,
+  "object_dup": [
+   "red kite"
+  ]
+ },
+ "experiments/page_defects/out/mira_p1_base_s6.png": {
+  "run": "mira",
+  "page": 1,
+  "object_dup": [
+   "red kite"
+  ]
+ },
+ "experiments/page_defects/out/mira_p1_base_s7.png": {
+  "run": "mira",
+  "page": 1,
+  "uncertain": [
+   "object_dup:red kite"
+  ]
+ },
+ "experiments/page_defects/out/mira_p1_base_s8.png": {
+  "run": "mira",
+  "page": 1
+ },
+ "experiments/page_defects/out/mira_p2_base_s5.png": {
+  "run": "mira",
+  "page": 2
+ },
+ "experiments/page_defects/out/mira_p2_base_s6.png": {
+  "run": "mira",
+  "page": 2
+ },
+ "experiments/page_defects/out/mira_p2_base_s7.png": {
+  "run": "mira",
+  "page": 2
+ },
+ "experiments/page_defects/out/mira_p2_base_s8.png": {
+  "run": "mira",
+  "page": 2
+ },
+ "experiments/page_defects/out/mira_p4_base_s5.png": {
+  "run": "mira",
+  "page": 4,
+  "event_missing": true
+ },
+ "experiments/page_defects/out/mira_p4_base_s6.png": {
+  "run": "mira",
+  "page": 4,
+  "disputed": "string looks connected but is thin and ambiguous"
+ },
+ "experiments/page_defects/out/mira_p4_base_s7.png": {
+  "run": "mira",
+  "page": 4,
+  "event_missing": true
+ },
+ "experiments/page_defects/out/mira_p4_base_s8.png": {
+  "run": "mira",
+  "page": 4,
+  "event_missing": true,
+  "hair_changed": [
+   "Mira"
+  ]
+ },
+ "experiments/page_defects/out/fox_p3_base_s5.png": {
+  "run": "fox",
+  "page": 3
+ },
+ "experiments/page_defects/out/fox_p3_base_s6.png": {
+  "run": "fox",
+  "page": 3,
+  "duplicate": [
+   "Bramble"
+  ]
+ },
+ "experiments/page_defects/out/fox_p3_base_s7.png": {
+  "run": "fox",
+  "page": 3
+ },
+ "experiments/page_defects/out/fox_p3_base_s8.png": {
+  "run": "fox",
+  "page": 3,
+  "duplicate": [
+   "Bramble"
+  ]
+ },
+ "experiments/page_defects/out/boat_p2_base_s5.png": {
+  "run": "boat",
+  "page": 2,
+  "floating": [
+   "Sammy"
+  ],
+  "uncertain": [
+   "object_dup:fishing rod"
+  ]
+ },
+ "experiments/page_defects/out/boat_p2_base_s6.png": {
+  "run": "boat",
+  "page": 2,
+  "floating": [
+   "Sammy"
+  ]
+ },
+ "experiments/page_defects/out/boat_p2_base_s7.png": {
+  "run": "boat",
+  "page": 2
+ },
+ "experiments/page_defects/out/boat_p2_base_s8.png": {
+  "run": "boat",
+  "page": 2,
+  "object_dup": [
+   "fishing rod"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s5.png": {
+  "run": "boat",
+  "page": 5,
+  "uncertain": [
+   "floating:Sammy"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s6.png": {
+  "run": "boat",
+  "page": 5,
+  "uncertain": [
+   "floating:Sammy"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s7.png": {
+  "run": "boat",
+  "page": 5,
+  "uncertain": [
+   "floating:Sammy"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s8.png": {
+  "run": "boat",
+  "page": 5,
+  "floating": [
+   "Grandpa Omar"
+  ],
+  "uncertain": [
+   "floating:Sammy"
+  ]
+ }
+}

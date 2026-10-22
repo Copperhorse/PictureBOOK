@@ -1,0 +1,2402 @@
+[
+ {
+  "ref": "ref_00.png",
+  "cand": "cand_00_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_00.png",
+  "cand": "cand_00_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_00.png",
+  "cand": "cand_00_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_00.png",
+  "cand": "cand_00_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_00.png",
+  "cand": "cand_00_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_00.png",
+  "cand": "cand_00_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_01.png",
+  "cand": "cand_01_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_01.png",
+  "cand": "cand_01_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_01.png",
+  "cand": "cand_01_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_01.png",
+  "cand": "cand_01_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_01.png",
+  "cand": "cand_01_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_01.png",
+  "cand": "cand_01_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_02.png",
+  "cand": "cand_02_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_02.png",
+  "cand": "cand_02_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_02.png",
+  "cand": "cand_02_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_02.png",
+  "cand": "cand_02_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_02.png",
+  "cand": "cand_02_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_02.png",
+  "cand": "cand_02_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_03.png",
+  "cand": "cand_03_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_03.png",
+  "cand": "cand_03_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_03.png",
+  "cand": "cand_03_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_03.png",
+  "cand": "cand_03_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_03.png",
+  "cand": "cand_03_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_03.png",
+  "cand": "cand_03_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_04.png",
+  "cand": "cand_04_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_04.png",
+  "cand": "cand_04_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_04.png",
+  "cand": "cand_04_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_04.png",
+  "cand": "cand_04_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_04.png",
+  "cand": "cand_04_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_04.png",
+  "cand": "cand_04_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_05.png",
+  "cand": "cand_05_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_05.png",
+  "cand": "cand_05_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_05.png",
+  "cand": "cand_05_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_05.png",
+  "cand": "cand_05_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_05.png",
+  "cand": "cand_05_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_05.png",
+  "cand": "cand_05_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_06.png",
+  "cand": "cand_06_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_06.png",
+  "cand": "cand_06_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_06.png",
+  "cand": "cand_06_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_06.png",
+  "cand": "cand_06_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_06.png",
+  "cand": "cand_06_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_06.png",
+  "cand": "cand_06_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_07.png",
+  "cand": "cand_07_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_07.png",
+  "cand": "cand_07_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_07.png",
+  "cand": "cand_07_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_07.png",
+  "cand": "cand_07_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_07.png",
+  "cand": "cand_07_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_07.png",
+  "cand": "cand_07_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_08.png",
+  "cand": "cand_08_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_08.png",
+  "cand": "cand_08_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_08.png",
+  "cand": "cand_08_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_08.png",
+  "cand": "cand_08_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_08.png",
+  "cand": "cand_08_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_08.png",
+  "cand": "cand_08_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_09.png",
+  "cand": "cand_09_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_09.png",
+  "cand": "cand_09_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_09.png",
+  "cand": "cand_09_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_09.png",
+  "cand": "cand_09_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_09.png",
+  "cand": "cand_09_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_09.png",
+  "cand": "cand_09_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_10.png",
+  "cand": "cand_10_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_10.png",
+  "cand": "cand_10_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_10.png",
+  "cand": "cand_10_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_10.png",
+  "cand": "cand_10_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_10.png",
+  "cand": "cand_10_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_10.png",
+  "cand": "cand_10_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_11.png",
+  "cand": "cand_11_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_11.png",
+  "cand": "cand_11_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_11.png",
+  "cand": "cand_11_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_11.png",
+  "cand": "cand_11_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_11.png",
+  "cand": "cand_11_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_11.png",
+  "cand": "cand_11_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_12.png",
+  "cand": "cand_12_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_12.png",
+  "cand": "cand_12_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_12.png",
+  "cand": "cand_12_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_12.png",
+  "cand": "cand_12_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_12.png",
+  "cand": "cand_12_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_12.png",
+  "cand": "cand_12_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_13.png",
+  "cand": "cand_13_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_13.png",
+  "cand": "cand_13_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_13.png",
+  "cand": "cand_13_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_13.png",
+  "cand": "cand_13_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_13.png",
+  "cand": "cand_13_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_13.png",
+  "cand": "cand_13_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_14.png",
+  "cand": "cand_14_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_14.png",
+  "cand": "cand_14_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "yellow",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_14.png",
+  "cand": "cand_14_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_14.png",
+  "cand": "cand_14_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_14.png",
+  "cand": "cand_14_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_14.png",
+  "cand": "cand_14_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_15.png",
+  "cand": "cand_15_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_15.png",
+  "cand": "cand_15_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_15.png",
+  "cand": "cand_15_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_15.png",
+  "cand": "cand_15_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_15.png",
+  "cand": "cand_15_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_15.png",
+  "cand": "cand_15_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_16.png",
+  "cand": "cand_16_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_16.png",
+  "cand": "cand_16_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_16.png",
+  "cand": "cand_16_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_16.png",
+  "cand": "cand_16_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_16.png",
+  "cand": "cand_16_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_16.png",
+  "cand": "cand_16_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_17.png",
+  "cand": "cand_17_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_17.png",
+  "cand": "cand_17_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_17.png",
+  "cand": "cand_17_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_17.png",
+  "cand": "cand_17_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_17.png",
+  "cand": "cand_17_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_17.png",
+  "cand": "cand_17_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "large"
+ },
+ {
+  "ref": "ref_18.png",
+  "cand": "cand_18_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_18.png",
+  "cand": "cand_18_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_18.png",
+  "cand": "cand_18_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_18.png",
+  "cand": "cand_18_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_18.png",
+  "cand": "cand_18_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_18.png",
+  "cand": "cand_18_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "medium"
+ },
+ {
+  "ref": "ref_19.png",
+  "cand": "cand_19_0.png",
+  "changed": null,
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_19.png",
+  "cand": "cand_19_1.png",
+  "changed": "robe_colour",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_19.png",
+  "cand": "cand_19_2.png",
+  "changed": "hair_colour",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_19.png",
+  "cand": "cand_19_3.png",
+  "changed": "headwear",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_19.png",
+  "cand": "cand_19_4.png",
+  "changed": "eyewear",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "size": "small"
+ },
+ {
+  "ref": "ref_19.png",
+  "cand": "cand_19_5.png",
+  "changed": "held_item",
+  "truth_ref": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "truth_cand": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "size": "small"
+ }
+]

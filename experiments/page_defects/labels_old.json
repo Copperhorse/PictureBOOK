@@ -1,0 +1,117 @@
+{
+ "runs/arcania/pages/page_01.png": {
+  "run": "arcania",
+  "page": 1
+ },
+ "runs/arcania/pages/page_02.png": {
+  "run": "arcania",
+  "page": 2
+ },
+ "runs/arcania/pages/page_04.png": {
+  "run": "arcania",
+  "page": 4
+ },
+ "runs/arcania/pages/page_05.png": {
+  "run": "arcania",
+  "page": 5
+ },
+ "runs/mira/pages/page_05.png": {
+  "run": "mira",
+  "page": 5
+ },
+ "runs/fox/pages/page_01.png": {
+  "run": "fox",
+  "page": 1
+ },
+ "runs/fox/pages/page_02.png": {
+  "run": "fox",
+  "page": 2
+ },
+ "runs/fox/pages/page_04.png": {
+  "run": "fox",
+  "page": 4
+ },
+ "runs/fox/pages/page_05.png": {
+  "run": "fox",
+  "page": 5
+ },
+ "runs/boat/pages/page_01.png": {
+  "run": "boat",
+  "page": 1
+ },
+ "runs/arcania/pages/page_03.png": {
+  "run": "arcania",
+  "page": 3,
+  "extra_hand": [
+   "Seventh Prince"
+  ]
+ },
+ "runs/mira/pages/page_01.png": {
+  "run": "mira",
+  "page": 1,
+  "extra_hand": [
+   "Mira"
+  ]
+ },
+ "runs/mira/pages/page_02.png": {
+  "run": "mira",
+  "page": 2,
+  "disputed": "user reported a third hand; two hands visible at full resolution"
+ },
+ "runs/mira/pages/page_03.png": {
+  "run": "mira",
+  "page": 3,
+  "object_dup": [
+   "red kite"
+  ]
+ },
+ "runs/mira/pages/page_04.png": {
+  "run": "mira",
+  "page": 4,
+  "hair_changed": [
+   "Mira"
+  ],
+  "event_missing": true
+ },
+ "runs/fox/pages/page_03.png": {
+  "run": "fox",
+  "page": 3,
+  "duplicate": [
+   "Bramble"
+  ]
+ },
+ "runs/boat/pages/page_02.png": {
+  "run": "boat",
+  "page": 2,
+  "floating": [
+   "Sammy"
+  ]
+ },
+ "runs/boat/pages/page_03.png": {
+  "run": "boat",
+  "page": 3,
+  "object_dup": [
+   "fishing rod"
+  ],
+  "uncertain": [
+   "floating:Grandpa Omar"
+  ]
+ },
+ "runs/boat/pages/page_04.png": {
+  "run": "boat",
+  "page": 4,
+  "duplicate": [
+   "Sammy"
+  ]
+ },
+ "runs/boat/pages/page_05.png": {
+  "run": "boat",
+  "page": 5,
+  "duplicate": [
+   "Sammy"
+  ],
+  "extra_leg": [
+   "Ducks"
+  ]
+ }
+}

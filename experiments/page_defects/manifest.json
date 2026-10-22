@@ -1,0 +1,436 @@
+[
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/arcania/pages/page_01.png",
+  "run": "arcania",
+  "page": 1,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/arcania/pages/page_02.png",
+  "run": "arcania",
+  "page": 2,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/arcania/pages/page_03.png",
+  "run": "arcania",
+  "page": 3,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/arcania/pages/page_04.png",
+  "run": "arcania",
+  "page": 4,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/arcania/pages/page_05.png",
+  "run": "arcania",
+  "page": 5,
+  "objects": [],
+  "must_show": [
+   "a crowd of people stands around the prince"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/boat/pages/page_01.png",
+  "run": "boat",
+  "page": 1,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/boat/pages/page_02.png",
+  "run": "boat",
+  "page": 2,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/boat/pages/page_03.png",
+  "run": "boat",
+  "page": 3,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/boat/pages/page_04.png",
+  "run": "boat",
+  "page": 4,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": [
+   "a silver fish is caught on the fishing line"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/boat/pages/page_05.png",
+  "run": "boat",
+  "page": 5,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": [
+   "ducks fly up from the water"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/fox/pages/page_01.png",
+  "run": "fox",
+  "page": 1,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/fox/pages/page_02.png",
+  "run": "fox",
+  "page": 2,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/fox/pages/page_03.png",
+  "run": "fox",
+  "page": 3,
+  "objects": [
+   "lantern"
+  ],
+  "must_show": [
+   "a small lantern stands in the snow"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/fox/pages/page_04.png",
+  "run": "fox",
+  "page": 4,
+  "objects": [
+   "lantern"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/fox/pages/page_05.png",
+  "run": "fox",
+  "page": 5,
+  "objects": [],
+  "must_show": [
+   "the two friends sleep side by side"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/mira/pages/page_01.png",
+  "run": "mira",
+  "page": 1,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/mira/pages/page_02.png",
+  "run": "mira",
+  "page": 2,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/mira/pages/page_03.png",
+  "run": "mira",
+  "page": 3,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": [
+   "a red kite flies high in the sky"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/mira/pages/page_04.png",
+  "run": "mira",
+  "page": 4,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": [
+   "the kite string has snapped: the red kite flies away alone and the girl holds only a loose end of string"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/runs/mira/pages/page_05.png",
+  "run": "mira",
+  "page": 5,
+  "objects": [],
+  "must_show": [
+   "the fisherman holds up the red kite"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/arcania_p3_base_s1.png",
+  "run": "arcania",
+  "page": 3,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/arcania_p3_base_s2.png",
+  "run": "arcania",
+  "page": 3,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/arcania_p3_base_s3.png",
+  "run": "arcania",
+  "page": 3,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/arcania_p3_base_s4.png",
+  "run": "arcania",
+  "page": 3,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p2_base_s1.png",
+  "run": "boat",
+  "page": 2,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p2_base_s2.png",
+  "run": "boat",
+  "page": 2,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p2_base_s3.png",
+  "run": "boat",
+  "page": 2,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p2_base_s4.png",
+  "run": "boat",
+  "page": 2,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p5_base_s1.png",
+  "run": "boat",
+  "page": 5,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": [
+   "ducks fly up from the water"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p5_base_s2.png",
+  "run": "boat",
+  "page": 5,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": [
+   "ducks fly up from the water"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p5_base_s3.png",
+  "run": "boat",
+  "page": 5,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": [
+   "ducks fly up from the water"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/boat_p5_base_s4.png",
+  "run": "boat",
+  "page": 5,
+  "objects": [
+   "fishing rod"
+  ],
+  "must_show": [
+   "ducks fly up from the water"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/fox_p3_base_s1.png",
+  "run": "fox",
+  "page": 3,
+  "objects": [
+   "lantern"
+  ],
+  "must_show": [
+   "a small lantern stands in the snow"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/fox_p3_base_s2.png",
+  "run": "fox",
+  "page": 3,
+  "objects": [
+   "lantern"
+  ],
+  "must_show": [
+   "a small lantern stands in the snow"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/fox_p3_base_s3.png",
+  "run": "fox",
+  "page": 3,
+  "objects": [
+   "lantern"
+  ],
+  "must_show": [
+   "a small lantern stands in the snow"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/fox_p3_base_s4.png",
+  "run": "fox",
+  "page": 3,
+  "objects": [
+   "lantern"
+  ],
+  "must_show": [
+   "a small lantern stands in the snow"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p1_base_s1.png",
+  "run": "mira",
+  "page": 1,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p1_base_s2.png",
+  "run": "mira",
+  "page": 1,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p1_base_s3.png",
+  "run": "mira",
+  "page": 1,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p1_base_s4.png",
+  "run": "mira",
+  "page": 1,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p2_base_s1.png",
+  "run": "mira",
+  "page": 2,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p2_base_s2.png",
+  "run": "mira",
+  "page": 2,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p2_base_s3.png",
+  "run": "mira",
+  "page": 2,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p2_base_s4.png",
+  "run": "mira",
+  "page": 2,
+  "objects": [],
+  "must_show": []
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p4_base_s1.png",
+  "run": "mira",
+  "page": 4,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": [
+   "the kite string has snapped: the red kite flies away alone and the girl holds only a loose end of string"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p4_base_s2.png",
+  "run": "mira",
+  "page": 4,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": [
+   "the kite string has snapped: the red kite flies away alone and the girl holds only a loose end of string"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p4_base_s3.png",
+  "run": "mira",
+  "page": 4,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": [
+   "the kite string has snapped: the red kite flies away alone and the girl holds only a loose end of string"
+  ]
+ },
+ {
+  "file": "/home/copper/Git/PictureBOOK/experiments/page_defects/out/mira_p4_base_s4.png",
+  "run": "mira",
+  "page": 4,
+  "objects": [
+   "red kite"
+  ],
+  "must_show": [
+   "the kite string has snapped: the red kite flies away alone and the girl holds only a loose end of string"
+  ]
+ }
+]

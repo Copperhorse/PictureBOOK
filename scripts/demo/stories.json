@@ -1,0 +1,149 @@
+[
+ {
+  "file": "goldilocks.txt",
+  "kind": "earlier test",
+  "words": 520,
+  "contains": "four characters, five rooms",
+  "stresses": "long story, four characters on one page, several rooms"
+ },
+ {
+  "file": "boat.txt",
+  "kind": "earlier test",
+  "words": 73,
+  "contains": "a grandfather and grandson in a boat, a fish, ducks",
+  "stresses": "people inside a boat (still the weakest case), fishing rods, ducks flying up"
+ },
+ {
+  "file": "fox.txt",
+  "kind": "earlier test",
+  "words": 77,
+  "contains": "a fox and a hedgehog, snow, a lantern, a cave",
+  "stresses": "two small animals, a lantern found then carried, two places"
+ },
+ {
+  "file": "mira.txt",
+  "kind": "earlier test",
+  "words": 82,
+  "contains": "a girl with glasses, a kite, a fisherman",
+  "stresses": "a kite string that must snap, hair style, glasses"
+ },
+ {
+  "file": "arcania.txt",
+  "kind": "earlier test",
+  "words": 88,
+  "contains": "fantasy, a prince and a mage",
+  "stresses": "group of mages, magic effects, a small wooden stick"
+ },
+ {
+  "file": "fables/ant_grasshopper.txt",
+  "kind": "aesop fable",
+  "words": 128,
+  "contains": "two tiny characters, summer then autumn then snow, a fiddle, a nest",
+  "stresses": "season and weather change with the same characters, a held instrument, an underground home"
+ },
+ {
+  "file": "fables/boy_wolf.txt",
+  "kind": "aesop fable",
+  "words": 140,
+  "contains": "a boy, many villagers, sheep, a wolf, hill and village",
+  "stresses": "crowds and flocks (many identical animals), groups the planner must reduce to one representative, an event the wolf scatters the flock"
+ },
+ {
+  "file": "fables/crow_pitcher.txt",
+  "kind": "aesop fable",
+  "words": 122,
+  "contains": "one bird, a tall pitcher, pebbles, water level rising",
+  "stresses": "an object that changes state across pages (water rising), tiny details, the same single character on every page"
+ },
+ {
+  "file": "fables/dog_reflection.txt",
+  "kind": "aesop fable",
+  "words": 107,
+  "contains": "a dog, a bone, a bridge, a stream, a reflection",
+  "stresses": "a character and its own reflection (duplicate figure trap), a dropped object, a bridge over water (standing on something)"
+ },
+ {
+  "file": "fables/fox_grapes.txt",
+  "kind": "aesop fable",
+  "words": 104,
+  "contains": "one animal, grapes high on a vine, jumping poses, a crow",
+  "stresses": "a held or reached object out of reach, repeated jumping poses, a second animal in the tree"
+ },
+ {
+  "file": "fables/lion_mouse.txt",
+  "kind": "aesop fable",
+  "words": 142,
+  "contains": "huge size difference, a rope net, hunters, gnawing",
+  "stresses": "a trapped character in a net, tiny character next to a huge one, ropes that must end up cut"
+ },
+ {
+  "file": "fables/north_wind_sun.txt",
+  "kind": "aesop fable",
+  "words": 119,
+  "contains": "personified wind and sun, a traveler in a cloak, a road and a tree",
+  "stresses": "characters that are not people or animals, an outfit that changes between pages (cloak on, then off)"
+ },
+ {
+  "file": "fables/tortoise_hare.txt",
+  "kind": "aesop fable",
+  "words": 150,
+  "contains": "two animals of different speed, a crowd of onlookers, a flag, sleeping under a tree, a finish line",
+  "stresses": "crowd page (many animals), a character that is asleep, the winner changes between pages"
+ },
+ {
+  "file": "fables/town_country_mouse.txt",
+  "kind": "aesop fable",
+  "words": 128,
+  "contains": "two similar mice, a field and a grand dining room, a cat",
+  "stresses": "two look-alike characters that must stay different, two very different places, a chase"
+ },
+ {
+  "file": "spooky/attic_mirror.txt",
+  "kind": "spooky tale",
+  "words": 155,
+  "contains": "a girl and her reflection who moves on her own, a framed mirror, an attic",
+  "stresses": "the girl and her reflection are two near identical figures (duplicate-character trap), a hand coming out of glass, a blanket thrown over an object"
+ },
+ {
+  "file": "spooky/house_lit_window.txt",
+  "kind": "spooky tale",
+  "words": 170,
+  "contains": "a hilltop house, a lit window, a ghost lady, two candles",
+  "stresses": "a lit versus unlit candle, a ghost who must look translucent, indoor and outdoor, a storm"
+ },
+ {
+  "file": "spooky/inn_raven_rest.txt",
+  "kind": "spooky tale",
+  "words": 220,
+  "contains": "three named travelers, an innkeeper, an inn with many rooms, snow then green fields, a ruin",
+  "stresses": "long story with four characters, many rooms, a place that changes completely between pages (inn to ruin), clocks and portraits with watching eyes"
+ },
+ {
+  "file": "spooky/lighthouse_ship.txt",
+  "kind": "spooky tale",
+  "words": 149,
+  "contains": "a lighthouse, a ghost ship, foggy sea, spiral stairs, faces at portholes",
+  "stresses": "a boat on water, many faces in windows, night and fog, a small final detail (wet footprints) that is easy to miss"
+ },
+ {
+  "file": "spooky/night_train.txt",
+  "kind": "spooky tale",
+  "words": 162,
+  "contains": "a black train, an empty station, rows of still passengers, a conductor, a ticket",
+  "stresses": "a crowd of passengers, a tall thin character, a held lantern, a small prop (ticket) that ends on a pillow"
+ },
+ {
+  "file": "spooky/scarecrow_stitch.txt",
+  "kind": "spooky tale",
+  "words": 172,
+  "contains": "a scarecrow that moves closer each night, a girl at a window, a cornfield, a baby crow",
+  "stresses": "the same object in a different position on each page (field, gate, yard, bed), night scenes, a small animal held in hands"
+ },
+ {
+  "file": "spooky/whispering_well.txt",
+  "kind": "spooky tale",
+  "words": 141,
+  "contains": "a stone well, a bucket on a rope, a voice, a church",
+  "stresses": "a rope that disappears, a bucket that ends up somewhere else, a tiny object (golden ring) as the final picture"
+ }
+]

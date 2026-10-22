@@ -1,0 +1,1282 @@
+[
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": null,
+  "file": "img_00.png",
+  "wrong": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "robe_colour",
+   "eyewear",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "headwear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "medium",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": null,
+  "file": "img_01.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "hair_colour",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "headwear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "red",
+  "file": "img_02.png",
+  "wrong": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "held_item",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "hair_colour",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": "blur",
+  "outline": false,
+  "truth": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "red",
+  "file": "img_03.png",
+  "wrong": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "headwear",
+   "hair_colour",
+   "eyewear"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "held_item"
+  ]
+ },
+ {
+  "target": "the character on the left",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "headwear_colour": "purple",
+  "file": "img_04.png",
+  "wrong": {
+   "robe_colour": "blue",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "hair_colour",
+   "held_item"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": "noise",
+  "outline": false,
+  "truth": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "headwear_colour": "yellow",
+  "file": "img_05.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "hair_colour",
+   "eyewear",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "held_item"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "yellow",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": null,
+  "file": "img_06.png",
+  "wrong": {
+   "robe_colour": "green",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "headwear",
+   "hair_colour",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character on the right",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": null,
+  "file": "img_07.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "headwear",
+   "hair_colour",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "eyewear",
+   "held_item"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "orange",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "headwear_colour": "blue",
+  "file": "img_08.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "headwear",
+   "eyewear"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "pink",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "headwear_colour": "yellow",
+  "file": "img_09.png",
+  "wrong": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "headwear",
+   "eyewear",
+   "held_item"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character on the left",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": "blur",
+  "outline": true,
+  "truth": {
+   "robe_colour": "blue",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "orange",
+  "file": "img_10.png",
+  "wrong": {
+   "robe_colour": "purple",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "robe_colour",
+   "headwear",
+   "eyewear"
+  ],
+  "variant_C_wrong": [
+   "hair_colour",
+   "held_item"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "purple",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "orange",
+  "file": "img_11.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "robe_colour",
+   "hair_colour",
+   "held_item"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": "noise",
+  "outline": true,
+  "truth": {
+   "robe_colour": "green",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "headwear_colour": null,
+  "file": "img_12.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "headwear",
+   "hair_colour",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character on the right",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "headwear_colour": null,
+  "file": "img_13.png",
+  "wrong": {
+   "robe_colour": "green",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "hair_colour",
+   "held_item",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "red",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": "orange",
+  "file": "img_14.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "robe_colour",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "orange",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "red",
+  "file": "img_15.png",
+  "wrong": {
+   "robe_colour": "red",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "held_item",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character on the left",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "pink",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "headwear_colour": "orange",
+  "file": "img_16.png",
+  "wrong": {
+   "robe_colour": "red",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "hair_colour",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": "blur",
+  "outline": false,
+  "truth": {
+   "robe_colour": "blue",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "headwear_colour": "blue",
+  "file": "img_17.png",
+  "wrong": {
+   "robe_colour": "green",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "hair_colour",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "purple",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": null,
+  "file": "img_18.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "hair_colour",
+   "held_item"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character on the right",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": "noise",
+  "outline": false,
+  "truth": {
+   "robe_colour": "green",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": null,
+  "file": "img_19.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "hair_colour",
+   "held_item",
+   "eyewear"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "headwear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "headwear_colour": "blue",
+  "file": "img_20.png",
+  "wrong": {
+   "robe_colour": "orange",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "robe_colour",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "eyewear",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "red",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "headwear_colour": "red",
+  "file": "img_21.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "robe_colour",
+   "eyewear",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "headwear"
+  ]
+ },
+ {
+  "target": "the character on the left",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "orange",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "headwear_colour": "red",
+  "file": "img_22.png",
+  "wrong": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "robe_colour",
+   "held_item",
+   "eyewear"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "headwear_colour": "orange",
+  "file": "img_23.png",
+  "wrong": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "headwear",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "hair_colour",
+   "held_item"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": "blur",
+  "outline": true,
+  "truth": {
+   "robe_colour": "blue",
+   "hair_colour": "red",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": null,
+  "file": "img_24.png",
+  "wrong": {
+   "robe_colour": "purple",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "headwear",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "hair_colour",
+   "held_item"
+  ]
+ },
+ {
+  "target": "the character on the right",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "headwear_colour": null,
+  "file": "img_25.png",
+  "wrong": {
+   "robe_colour": "blue",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "hair_colour",
+   "headwear",
+   "held_item"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": "noise",
+  "outline": true,
+  "truth": {
+   "robe_colour": "green",
+   "hair_colour": "grey",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": "purple",
+  "file": "img_26.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "hair_colour",
+   "held_item",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "yellow",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "headwear_colour": "orange",
+  "file": "img_27.png",
+  "wrong": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "eyewear",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character on the left",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "red",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "pink",
+  "file": "img_28.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "variant_B_wrong": [
+   "robe_colour",
+   "held_item",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "eyewear",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "orange",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "orange",
+  "file": "img_29.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "hair_colour",
+   "eyewear",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "headwear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": null,
+  "file": "img_30.png",
+  "wrong": {
+   "robe_colour": "red",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "headwear",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "eyewear",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character on the right",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": "blur",
+  "outline": false,
+  "truth": {
+   "robe_colour": "blue",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "none"
+  },
+  "headwear_colour": null,
+  "file": "img_31.png",
+  "wrong": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "headwear",
+   "robe_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "purple",
+   "hair_colour": "blonde",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "pink",
+  "file": "img_32.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "headwear",
+   "robe_colour",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": "noise",
+  "outline": false,
+  "truth": {
+   "robe_colour": "green",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": "blue",
+  "file": "img_33.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "brown",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "headwear",
+   "eyewear",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character on the left",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "yellow",
+   "hair_colour": "red",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "headwear_colour": "green",
+  "file": "img_34.png",
+  "wrong": {
+   "robe_colour": "orange",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "hair_colour",
+   "robe_colour",
+   "eyewear"
+  ],
+  "variant_C_wrong": [
+   "held_item",
+   "headwear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "none"
+  },
+  "headwear_colour": "purple",
+  "file": "img_35.png",
+  "wrong": {
+   "robe_colour": "pink",
+   "hair_colour": "black",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "eyewear",
+   "held_item",
+   "headwear"
+  ],
+  "variant_C_wrong": [
+   "hair_colour",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": true,
+  "truth": {
+   "robe_colour": "orange",
+   "hair_colour": "grey",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": null,
+  "file": "img_36.png",
+  "wrong": {
+   "robe_colour": "yellow",
+   "hair_colour": "black",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "robe_colour",
+   "eyewear",
+   "held_item"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "hair_colour"
+  ]
+ },
+ {
+  "target": "the character on the right",
+  "n_characters": 2,
+  "size": "medium",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "pink",
+   "hair_colour": "blonde",
+   "headwear": "none",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "headwear_colour": null,
+  "file": "img_37.png",
+  "wrong": {
+   "robe_colour": "red",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "eyewear",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "headwear",
+   "robe_colour"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "large",
+  "effect": "blur",
+  "outline": true,
+  "truth": {
+   "robe_colour": "blue",
+   "hair_colour": "black",
+   "headwear": "hood",
+   "eyewear": "none",
+   "held_item": "basket"
+  },
+  "headwear_colour": "pink",
+  "file": "img_38.png",
+  "wrong": {
+   "robe_colour": "purple",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "round glasses",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "headwear",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "eyewear"
+  ]
+ },
+ {
+  "target": "the character",
+  "n_characters": 1,
+  "size": "small",
+  "effect": null,
+  "outline": false,
+  "truth": {
+   "robe_colour": "purple",
+   "hair_colour": "red",
+   "headwear": "hood",
+   "eyewear": "round glasses",
+   "held_item": "basket"
+  },
+  "headwear_colour": "yellow",
+  "file": "img_39.png",
+  "wrong": {
+   "robe_colour": "blue",
+   "hair_colour": "brown",
+   "headwear": "pointed hat",
+   "eyewear": "none",
+   "held_item": "wooden stick"
+  },
+  "variant_B_wrong": [
+   "held_item",
+   "eyewear",
+   "hair_colour"
+  ],
+  "variant_C_wrong": [
+   "robe_colour",
+   "headwear"
+  ]
+ }
+]

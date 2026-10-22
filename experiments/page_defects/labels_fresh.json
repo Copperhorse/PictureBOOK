@@ -1,0 +1,187 @@
+{
+ "experiments/page_defects/out/arcania_p3_base_s1.png": {
+  "run": "arcania",
+  "page": 3
+ },
+ "experiments/page_defects/out/arcania_p3_base_s2.png": {
+  "run": "arcania",
+  "page": 3
+ },
+ "experiments/page_defects/out/arcania_p3_base_s3.png": {
+  "run": "arcania",
+  "page": 3
+ },
+ "experiments/page_defects/out/arcania_p3_base_s4.png": {
+  "run": "arcania",
+  "page": 3,
+  "disputed": "second stick behind the prince; hands unclear"
+ },
+ "experiments/page_defects/out/mira_p1_base_s1.png": {
+  "run": "mira",
+  "page": 1,
+  "uncertain": [
+   "object_dup:red kite"
+  ]
+ },
+ "experiments/page_defects/out/mira_p1_base_s2.png": {
+  "run": "mira",
+  "page": 1,
+  "extra_hand": [
+   "Mira"
+  ],
+  "uncertain": [
+   "object_dup:red kite"
+  ]
+ },
+ "experiments/page_defects/out/mira_p1_base_s3.png": {
+  "run": "mira",
+  "page": 1,
+  "object_dup": [
+   "red kite"
+  ]
+ },
+ "experiments/page_defects/out/mira_p1_base_s4.png": {
+  "run": "mira",
+  "page": 1,
+  "object_dup": [
+   "red kite"
+  ]
+ },
+ "experiments/page_defects/out/mira_p2_base_s1.png": {
+  "run": "mira",
+  "page": 2
+ },
+ "experiments/page_defects/out/mira_p2_base_s2.png": {
+  "run": "mira",
+  "page": 2,
+  "hair_changed": [
+   "Mira"
+  ]
+ },
+ "experiments/page_defects/out/mira_p2_base_s3.png": {
+  "run": "mira",
+  "page": 2
+ },
+ "experiments/page_defects/out/mira_p2_base_s4.png": {
+  "run": "mira",
+  "page": 2
+ },
+ "experiments/page_defects/out/mira_p4_base_s1.png": {
+  "run": "mira",
+  "page": 4
+ },
+ "experiments/page_defects/out/mira_p4_base_s2.png": {
+  "run": "mira",
+  "page": 4,
+  "event_missing": true
+ },
+ "experiments/page_defects/out/mira_p4_base_s3.png": {
+  "run": "mira",
+  "page": 4,
+  "event_missing": true
+ },
+ "experiments/page_defects/out/mira_p4_base_s4.png": {
+  "run": "mira",
+  "page": 4,
+  "event_missing": true,
+  "hair_changed": [
+   "Mira"
+  ]
+ },
+ "experiments/page_defects/out/fox_p3_base_s1.png": {
+  "run": "fox",
+  "page": 3
+ },
+ "experiments/page_defects/out/fox_p3_base_s2.png": {
+  "run": "fox",
+  "page": 3
+ },
+ "experiments/page_defects/out/fox_p3_base_s3.png": {
+  "run": "fox",
+  "page": 3,
+  "duplicate": [
+   "Pip",
+   "Bramble"
+  ]
+ },
+ "experiments/page_defects/out/fox_p3_base_s4.png": {
+  "run": "fox",
+  "page": 3,
+  "duplicate": [
+   "Bramble"
+  ]
+ },
+ "experiments/page_defects/out/boat_p2_base_s1.png": {
+  "run": "boat",
+  "page": 2,
+  "floating": [
+   "Sammy"
+  ],
+  "object_dup": [
+   "fishing rod"
+  ]
+ },
+ "experiments/page_defects/out/boat_p2_base_s2.png": {
+  "run": "boat",
+  "page": 2,
+  "floating": [
+   "Sammy"
+  ]
+ },
+ "experiments/page_defects/out/boat_p2_base_s3.png": {
+  "run": "boat",
+  "page": 2,
+  "floating": [
+   "Sammy"
+  ],
+  "object_dup": [
+   "fishing rod"
+  ]
+ },
+ "experiments/page_defects/out/boat_p2_base_s4.png": {
+  "run": "boat",
+  "page": 2,
+  "floating": [
+   "Sammy"
+  ],
+  "object_dup": [
+   "fishing rod"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s1.png": {
+  "run": "boat",
+  "page": 5,
+  "floating": [
+   "Grandpa Omar"
+  ],
+  "uncertain": [
+   "floating:Sammy"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s2.png": {
+  "run": "boat",
+  "page": 5,
+  "floating": [
+   "Grandpa Omar"
+  ],
+  "uncertain": [
+   "floating:Sammy"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s3.png": {
+  "run": "boat",
+  "page": 5,
+  "uncertain": [
+   "floating:Sammy",
+   "floating:Grandpa Omar"
+  ]
+ },
+ "experiments/page_defects/out/boat_p5_base_s4.png": {
+  "run": "boat",
+  "page": 5,
+  "uncertain": [
+   "floating:Sammy",
+   "floating:Grandpa Omar"
+  ]
+ }
+}
