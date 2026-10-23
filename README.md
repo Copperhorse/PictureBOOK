@@ -40,7 +40,7 @@ Everything below is reproducible from [`experiments/`](experiments/README.md) an
 | Can any model find extra hands or legs? | **No.** 0 of 3 on Gemma 4 E4B and on Qwen3.5-4B. Published 2026 results for much larger models are also at or below chance (detection AUC 0.23-0.38). So a human reviews every page. [page-defects](docs/research/page-defects.md) |
 | Does "Redraw" fix a bad page? | 39 redraws on 13 flagged pages: **11 of 13 defects came back in all three redraws**, only 2 were random. Redraw fixes hands and stray props; it does not fix planning problems. [story-battery](docs/research/story-battery.md) |
 | Does repairing a picture by editing help? | In 6 tries it improved the page once, so a repair is kept only if the critic then finds fewer confident mismatches. |
-| Does it fit the GPU? | klein 4B in NF4: 6.9 GiB PyTorch peak, 9.9 s per image, 44.6 s for a page composed from three references. SDXL + IP-Adapter was 3x slower with weaker prompt adherence. [image-bakeoff](docs/research/image-bakeoff.md) |
+| Does it fit the GPU? | klein 4B in NF4: 6.9 GiB PyTorch peak (7.8 GB on the board by nvidia-smi), 9.9 s per image, 44.6 s for a page composed from three references. SDXL + IP-Adapter was 3x slower with weaker prompt adherence. [image-bakeoff](docs/research/image-bakeoff.md) |
 
 ## What did not work
 

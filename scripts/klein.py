@@ -1,4 +1,4 @@
-"""FLUX.2 klein 4B (community NF4 bundle) on the GPU: generate / edit / multi-reference compose. Whole pipeline on the card (measured peak ~7.8 GB)."""
+"""FLUX.2 klein 4B (community NF4 bundle) on the GPU: generate / edit / multi-reference compose. Whole pipeline on the card (measured at 1024²: 6.9 GiB PyTorch peak allocation, 7.8 GB board peak by nvidia-smi)."""
 import torch
 from PIL import Image
 
